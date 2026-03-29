@@ -45,7 +45,7 @@ O **ScreenMatch** é um projeto desenvolvido durante a formação **Java + Sprin
 
 | Tecnologia | Versão | Descrição |
 |---|---|---|
-| **Java** | 21 | Linguagem principal |
+| **Java** | +17 | Linguagem principal |
 | **Spring Boot** | 3.x | Framework base da aplicação |
 | **Spring Data JPA** | — | Abstração de persistência e repositórios |
 | **Hibernate** | — | ORM utilizado pelo Spring Data JPA |
